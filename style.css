@@ -16,7 +16,7 @@ section {
 
 .game--container {
     display: grid;
-    grid-template-columns: repeat(3, auto);
+    grid-template-columns: auto auto auto;
     align-items: center;
     justify-content: center;
     width: 306px;
